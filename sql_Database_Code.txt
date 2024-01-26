@@ -1,0 +1,10 @@
+create table Costumer
+(
+s_no int,
+name varchar(20),
+balance int,
+password varchar(20),
+uid varchar(20)
+)
+
+insert into costumer values(1,"dushyant",2300,"1234","ip123"),(2,"Yasir",2305,"4567","pso23")
